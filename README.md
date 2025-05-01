@@ -2,6 +2,8 @@
 
 JQ-Genius is a web application that allows users to upload JSON files, generate JQ queries from natural language using AI, execute those queries, and visualize the results in a clear and accessible way. The project is designed with a modern and professional interface, making JSON data analysis and manipulation easy even for those unfamiliar with JQ.
 
+You can try it on [HERE](https://jq-genius.onrender.com/)
+
 ---
 
 ## Table of Contents
